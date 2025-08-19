@@ -1,25 +1,24 @@
 # 🚀 Project Overview
 
-This repository contains the full details of the project.  
-Watch the complete explanation in the video below.  
+This repository contains the full implementation and resources for the project demonstrated in the video below.  
 
-## 🎥 Video Demo  
+## 🎥 Demo Video
+Click below to watch the complete walkthrough:  
 
-<div align="center">
-  <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/tNyjqG_1-a8?autoplay=1&mute=1" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
+[![Watch the video](https://img.youtube.com/vi/tNyjqG_1-a8/0.jpg)](https://youtu.be/tNyjqG_1-a8?si=uoT3HGnMWp_ZiRgm)
+
+*(GitHub Markdown does not allow direct iframe embeds, so this is the best way to embed YouTube — it shows a thumbnail and links to the video.)*
 
 ---
 
-## 📌 Note  
+## 📂 Repository Contents
+- Full project code  
+- Configuration files  
+- Example usage  
 
-- GitHub’s markdown preview **does not autoplay iframes directly** for security.  
-- To see the video autoplay inside the repo, open this README via **GitHub Pages** or any markdown renderer that supports raw HTML.  
+---
 
-👉 [Watch directly on YouTube](https://youtu.be/tNyjqG_1-a8?si=uoT3HGnMWp_ZiRgm)
+## ⚡ How to Use
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
